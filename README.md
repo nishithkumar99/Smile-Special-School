@@ -1,2 +1,1 @@
-# Smile-Special-School
-NGO Website
+https://www.smilespecialschools.org
